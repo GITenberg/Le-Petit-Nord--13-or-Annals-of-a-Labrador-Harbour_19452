@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '8686'
     url: http://www.gutenberg.org/2009/agents/8686
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19452#Le-Petit-Nord--13-or-Annals-of-a-Labrador-Harbour
 gutenberg_issued: '2006-10-03'
 gutenberg_type: Text
 identifiers:
